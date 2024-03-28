@@ -1,0 +1,153 @@
+
+skin.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+f36_game
+  rotate: false
+  xy: 1809, 2009
+  size: 214, 36
+  orig: 214, 36
+  offset: 0, 0
+  index: -1
+f36_menu
+  rotate: false
+  xy: 1303, 1952
+  size: 504, 93
+  orig: 504, 93
+  offset: 0, 0
+  index: -1
+f96
+  rotate: false
+  xy: 803, 1763
+  size: 479, 152
+  orig: 479, 152
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 1, 1555
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+back_end_game
+  rotate: false
+  xy: 1, 1193
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+back_game
+  rotate: false
+  xy: 1, 107
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+back_settings
+  rotate: false
+  xy: 1, 831
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+back_top5
+  rotate: false
+  xy: 1, 469
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+button_1
+  rotate: false
+  xy: 1, 42
+  size: 331, 63
+  orig: 331, 63
+  offset: 0, 0
+  index: -1
+button_2
+  rotate: false
+  xy: 334, 42
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+button_music_off
+  rotate: false
+  xy: 803, 1628
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+button_music_on
+  rotate: false
+  xy: 803, 1493
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+button_return
+  rotate: false
+  xy: 1809, 1961
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 938, 1669
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+object
+  rotate: false
+  xy: 938, 1713
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+road
+  rotate: false
+  xy: 1, 1917
+  size: 1300, 128
+  orig: 1300, 128
+  offset: 0, 0
+  index: -1
+rock0
+  rotate: false
+  xy: 1, 1
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 1303, 1919
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 1879, 1971
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+rock3
+  rotate: false
+  xy: 803, 1456
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+rock4
+  rotate: false
+  xy: 441, 66
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
