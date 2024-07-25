@@ -1,1 +1,4 @@
 android/release
+.gradle/
+android/build/
+core/build/
